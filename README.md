@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eu sou Gusta
 
 <!--
 **OiGubin/OiGubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/bc228520-783d-422c-abe4-b96b0053c801/public_url">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
+  </a>
