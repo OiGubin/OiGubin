@@ -21,3 +21,12 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/bc228520-783d-422c-abe4-b96b0053c801/public_url">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
   </a>
+
+## Habilidade
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,unity)](https://skillicons.dev)
+
+## Contatos
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
