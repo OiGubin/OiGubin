@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,unity)](https://skillicons.dev)
 
 ## Contatos
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
