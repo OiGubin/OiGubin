@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 
 ## Habilidade
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,typescript)](https://skillicons.dev)
 
 ## Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,unity)](https://skillicons.dev)
